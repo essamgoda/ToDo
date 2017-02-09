@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ToDo</string>
+    <string name="todos">Todos</string>
+    <string name="finished_todos">Finished Todos</string>
+</resources>
